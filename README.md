@@ -34,7 +34,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fertility-app
+   cd muatmuat-frontend
    ```
 3. Install dependencies:
    ```bash
@@ -95,7 +95,7 @@ The project follows the **App Router** structure of Next.js. Here’s an overvie
 ### 3. Item Detail
 
 - User open this page by clicking desired item from the list items page.
-- Dynamic route (`/course/[id]`) to display detailed information about a selected items.
+- Dynamic route (`/[id]`) to display detailed information about a selected items.
 - Able to edit the selected item.
 
 ### 4. Responsive UI
