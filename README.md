@@ -30,7 +30,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/inganta23/fertility-app.git
+   git clone https://github.com/inganta23/muatmuat-frontend.git
    ```
 2. Navigate to the project directory:
    ```bash
